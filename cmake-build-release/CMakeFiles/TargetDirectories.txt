@@ -1,0 +1,3 @@
+C:/Users/Виктор/CLionProjects/CUDA3.2/cmake-build-release/CMakeFiles/CUDA3.2.dir
+C:/Users/Виктор/CLionProjects/CUDA3.2/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/Users/Виктор/CLionProjects/CUDA3.2/cmake-build-release/CMakeFiles/rebuild_cache.dir
